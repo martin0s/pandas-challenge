@@ -60,7 +60,30 @@ Use pd.cut to categorize spending based on the bins.
 
 Use the following code to then calculate mean scores per spending range.
 
+![image](https://github.com/martin0s/pandas-challenge/assets/61669834/89850ef0-5be7-4471-8039-06b7fa92d27e)
 
+Use the scores above to create a DataFrame called spending_summary.
+Include the following metrics in the table:
+
+*Average math score
+*Average reading score
+*% passing math (the percentage of students who passed math)
+*% passing reading (the percentage of students who passed reading)
+*% overall passing (the percentage of students who passed math AND reading)
+
+# Scores by School Size
+Use the following code to bin the per_school_summary.
+
+![image](https://github.com/martin0s/pandas-challenge/assets/61669834/125e9133-9cd1-4cd1-b39c-1a1012a6bbbf)
+
+Use pd.cut on the "Total Students" column of the per_school_summary DataFrame.
+
+Create a DataFrame called size_summary that breaks down school performance based on school size (small, medium, or large).
+
+# Scores by School Type
+Use the per_school_summary DataFrame from the previous step to create a new DataFrame called type_summary.
+
+This new DataFrame should show school performance based on the "School Type".
 
 
 
