@@ -87,3 +87,11 @@ This new DataFrame should show school performance based on the "School Type".
 
 ## Summary 
 
+# District Summary
+
+* The students did a much better job in math than in reading and the overal passing rate for both reading and math is 65%
+
+# Highest-Performing Schools (by % Overall Passing)
+
+*The schools that are labeled as Charter
+
