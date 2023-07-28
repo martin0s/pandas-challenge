@@ -113,8 +113,8 @@ The overall passing percentage increases when the budget per student is less.
 
 # Scores by School Size
 
-*
+*The schools where the school size are less than 2000 are doing good in both math and reading. The schools that have a bigger school size are doing well in reading only however the overall passing percentage is less than 60%
 
 # Scores by School Type
 
-*
+*The Charter schools have a good overall passing percentage in both reading and math. The district schools are doing well in reading only but have less than 60% of overall passing.
