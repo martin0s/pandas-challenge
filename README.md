@@ -85,7 +85,7 @@ Use the per_school_summary DataFrame from the previous step to create a new Data
 
 This new DataFrame should show school performance based on the "School Type".
 
-## Summary 
+## Summary Report
 
 # District Summary
 
@@ -93,5 +93,28 @@ This new DataFrame should show school performance based on the "School Type".
 
 # Highest-Performing Schools (by % Overall Passing)
 
-*The schools that are labeled as Charter
+*The schools that are labeled as Charter have a higher percentage of overall passing. The Charter schools have 90% overall passing percentage. Also, Charter schools have less students than District schools.
 
+# Lowest-Performing Schools (by % Overall Passing)
+
+*The schools that are labeled as District have a lower percentage of overall passing. The District schools overall passing percentage are in the 50s and 60s. Also, District schools have more students than Charter schools.
+
+# Math Scores by Grade
+
+*There are 8 out of 15 schools that have more than 80% average math scores for students in the 9th, 10th, 11th and 12th grade. Also, those 8 schools are Charter Schools.
+
+# Reading Scores by Grade
+
+*All 15 schools have more than 80% average reading score for students in the 9th, 10, 11, and 12th grade. Both District and Charter schools are doing very well in reading.
+
+# Scores by School Spending
+
+The overall passing percentage increases when the budget per student is less. 
+
+# Scores by School Size
+
+*
+
+# Scores by School Type
+
+*
